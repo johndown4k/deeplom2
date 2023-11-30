@@ -1,0 +1,15 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(59, 161, 137, 1);
+    height: 56px;
+    padding: 0 1rem;
+    div {
+        align-self: center;
+        font-weight: 600;
+        color: white;
+        a{
+            color: white;
+        }
+    }
+}

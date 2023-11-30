@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #333f48;
+}
+
+body {
+  background-color: rgba(246, 246, 246, 1);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.container {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+

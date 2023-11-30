@@ -1,0 +1,19 @@
+.admin__panel {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5rem;
+    button {
+        text-align: center;
+        padding: 0 10px !important;
+        border: none;
+        border-radius: 12px;
+        background-color: rgba(59, 161, 137, 1) !important;
+        color: white;
+        font-weight: 700;
+        font-size: 16px !important;
+        text-decoration: none;
+        
+    }
+}
+
+
